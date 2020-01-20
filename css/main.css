@@ -1,0 +1,43 @@
+*  { margin: 0; box-sizing: border-box; }
+body {
+    font-size: px;
+    line-height: px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    margin: 15px;
+}
+
+h1 {
+    font-size: rem;
+    color: white;
+}
+
+h2 {
+    font-size: rem;
+    text-align: center;
+    border-bottom: px solid red;
+    padding-bottom: px;
+}
+
+header, main, footer {
+    margin: rem auto;
+    padding: rem;
+    max-width: auto;
+}
+
+header, footer, footer a {
+    text-align: center;
+    background-color: #8B0000;
+    color: #000000;
+}
+
+header img {
+    width: px;
+    height: px;
+    float: right;
+}
+
+footer {
+    font-size: medium;
+    color: whitesmoke;
+}
