@@ -3,7 +3,7 @@ body {
     font-size: px;
     line-height: px;
     font-family: 'Times New Roman', Times, serif;
-    color: #000000;
+    color: yellow;
     margin: 15px;
 }
 
@@ -27,7 +27,7 @@ header, main, footer {
 
 header, footer, footer a {
     text-align: center;
-    background-color: #8B0000;
+    background-color: green;
     color: blue;
 }
 
